@@ -1,14 +1,12 @@
-**✅ Configuration Jekyll mise à jour avec votre nouveau titre**
-
-Voici la version **finale et propre** de votre fichier `_config.yml` avec le titre `Malonga Mentor Portfolio`.
-
-### 1. Fichier `_config.yml`
-
-```yaml
-title: "Malonga Mentor Portfolio"
-description: Data Analyst & Power BI Expert | PySpark & Data Pipeline Engineer
+title: "Malonga Mentor"
+description: "Data Analyst & Power BI Expert | PySpark & Data Pipeline Engineer"
 url: "https://Mentor077.github.io"
 baseurl: ""
+lang: fr
+
+# Thème
+theme: jekyll-theme-minimal
+show_downloads: true
 
 # ==================== PROFILE ====================
 name: "Malonga Mentor"
@@ -16,7 +14,11 @@ title: "Data Analyst @ Tecno"
 headline: "Power BI Developer | Python | SQL | PySpark | Data Pipeline Builder"
 since: 2022
 education: "Licence en Électronique"
-logo: "/img/Mentor.jpg"
+logo: "/img/mentor.jpg"
+
+author:
+  name: "Malonga Mentor"
+  avatar: "/img/mentor.jpg"
 
 # ==================== DESCRIPTION ====================
 short_description: "Data Analyst chez Tecno depuis 2022, spécialisé en Business Intelligence, dashboards Power BI, analyse de données et conception de pipelines data professionnels."
@@ -25,8 +27,7 @@ long_description: >
   Je suis Malonga Mentor, Data Analyst chez Tecno depuis 2022 et titulaire
   d'une Licence en Électronique. Je transforme des données brutes en insights
   exploitables grâce à Power BI, Python, SQL et PySpark. Mon objectif est de
-  concevoir des dashboards professionnels et des pipelines de données fiables,
-  capables d'aider les entreprises à prendre de meilleures décisions.
+  concevoir des dashboards professionnels et des pipelines de données fiables.
 
 # ==================== SKILLS ====================
 skills:
@@ -87,21 +88,3 @@ languages:
     level: "Intermédiaire / Professionnel"
 
 last_update: "Juin 2025"
-```
-
----
-
-### Prochaines actions demandées :
-
-Pour que votre portfolio fonctionne correctement avec Jekyll, vous devez maintenant créer **deux autres fichiers** :
-
-1. `_layouts/default.html` → (le design du site)
-2. `index.md` → (le contenu de la page d'accueil)
-
-**Voulez-vous que je vous envoie maintenant :**
-
-**Option A :** Le design moderne complet (fichiers `_layouts/default.html` + `index.md` avec un beau style dark/blue professionnel)
-
-**Option B :** Une version encore plus élégante avec animations et cards de projets
-
-Répondez simplement avec **A** ou **B**, ou dites-moi si vous voulez changer quelque chose dans le `_config.yml` avant de continuer.
