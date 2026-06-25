@@ -1,0 +1,86 @@
+profile:
+  name: "Mentor Malonga"
+  title: "Data Analyst @ Tecno"
+  headline: "Power BI Developer | Python | SQL | PySpark | Data Pipeline Builder"
+  since: 2022
+  education: "Licence en Électronique"
+
+language:
+  readme_language: "fr"
+  spoken_languages:
+    - name: "Français"
+      level: "Professionnel"
+    - name: "Anglais"
+      level: "Intermédiaire / Professionnel"
+
+description:
+  short: "Data Analyst chez Tecno depuis 2022, spécialisé en Business Intelligence, dashboards Power BI, analyse de données et conception de pipelines data professionnels."
+  long: >
+    Je suis Mentor Malonga, Data Analyst chez Tecno depuis 2022 et titulaire
+    d'une Licence en Électronique. Je transforme des données brutes en insights
+    exploitables grâce à Power BI, Python, SQL et PySpark. Mon objectif est de
+    concevoir des dashboards professionnels et des pipelines de données fiables,
+    capables d'aider les entreprises à prendre de meilleures décisions.
+
+skills:
+  data_analysis:
+    - "Data Cleaning"
+    - "Data Transformation"
+    - "KPI Analysis"
+    - "Business Reporting"
+    - "Data Storytelling"
+
+  business_intelligence:
+    - "Power BI"
+    - "DAX"
+    - "Power Query"
+    - "Dashboards interactifs"
+    - "Reporting décisionnel"
+
+  programming_languages:
+    - "Python"
+    - "SQL"
+    - "PySpark"
+
+  data_engineering:
+    - "Data Pipeline"
+    - "ETL"
+    - "Data Ingestion"
+    - "Data Processing"
+    - "Automation"
+
+projects:
+  - title: "MAP Transport Performance Report"
+    category: "Business Intelligence"
+    tool: "Power BI"
+    description: "Analyse des performances transport/logistique de 2021 à 2024."
+    image: "assets/map-transport-report.png"
+
+  - title: "MAP Sales Report"
+    category: "Sales Analytics"
+    tool: "Power BI"
+    description: "Dashboard de suivi des ventes, objectifs, marchés, modèles et superviseurs."
+    image: "assets/map-sales-report.png"
+
+  - title: "Congolese BAC Exam Report 2024"
+    category: "Education Analytics"
+    tool: "Power BI"
+    description: "Analyse des résultats du BAC congolais 2024 par âge, sexe, session, école et grade."
+    image: "assets/congolese-bac-report.png"
+
+pipeline:
+  objective: "Concevoir un pipeline data professionnel de la donnée brute jusqu’au dashboard final."
+  steps:
+    - "Data Ingestion"
+    - "Data Cleaning"
+    - "Data Transformation"
+    - "Python / SQL / PySpark Processing"
+    - "Data Modeling"
+    - "Power BI Dashboard"
+    - "Business Decision"
+
+contact:
+  email: "malongamentor17@gmail.com"
+  linkedin: "https://linkedin.com/in/mentor-malonga"
+  portfolio: ""
+  github: "https://github.com/Mentor077"
