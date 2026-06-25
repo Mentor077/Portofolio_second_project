@@ -1,14 +1,9 @@
-title: "Malonga Mentor"
-description: "Data Analyst & Power BI Expert"
+title: Malonga Mentor
+description: Data Analyst & Power BI Expert
 url: "https://Mentor077.github.io"
 baseurl: ""
 
-# Theme
 theme: jekyll-theme-minimal
-
-# Configuration principale
 show_downloads: true
-logo: "/img/nny.jpg"
 
-# Langue
-lang: fr
+logo: "/img/nny.jpg"
