@@ -1,87 +1,107 @@
-profile:
-  name: "Mentor Malonga"
-  title: "Data Analyst @ Tecno"
-  logo: "img/Mentor.jpg"
-  headline: "Power BI Developer | Python | SQL | PySpark | Data Pipeline Builder"
-  since: 2022
-  education: "Licence en Électronique"
+**✅ Configuration Jekyll mise à jour avec votre nouveau titre**
 
-language:
-  readme_language: "fr"
-  spoken_languages:
-    - name: "Français"
-      level: "Professionnel"
-    - name: "Anglais"
-      level: "Intermédiaire / Professionnel"
+Voici la version **finale et propre** de votre fichier `_config.yml` avec le titre `Malonga Mentor Portfolio`.
 
-description:
-  short: "Data Analyst chez Tecno depuis 2022, spécialisé en Business Intelligence, dashboards Power BI, analyse de données et conception de pipelines data professionnels."
-  long: >
-    Je suis Mentor Malonga, Data Analyst chez Tecno depuis 2022 et titulaire
-    d'une Licence en Électronique. Je transforme des données brutes en insights
-    exploitables grâce à Power BI, Python, SQL et PySpark. Mon objectif est de
-    concevoir des dashboards professionnels et des pipelines de données fiables,
-    capables d'aider les entreprises à prendre de meilleures décisions.
+### 1. Fichier `_config.yml`
 
+```yaml
+title: "Malonga Mentor Portfolio"
+description: Data Analyst & Power BI Expert | PySpark & Data Pipeline Engineer
+url: "https://Mentor077.github.io"
+baseurl: ""
+
+# ==================== PROFILE ====================
+name: "Malonga Mentor"
+title: "Data Analyst @ Tecno"
+headline: "Power BI Developer | Python | SQL | PySpark | Data Pipeline Builder"
+since: 2022
+education: "Licence en Électronique"
+logo: "/img/Mentor.jpg"
+
+# ==================== DESCRIPTION ====================
+short_description: "Data Analyst chez Tecno depuis 2022, spécialisé en Business Intelligence, dashboards Power BI, analyse de données et conception de pipelines data professionnels."
+
+long_description: >
+  Je suis Malonga Mentor, Data Analyst chez Tecno depuis 2022 et titulaire
+  d'une Licence en Électronique. Je transforme des données brutes en insights
+  exploitables grâce à Power BI, Python, SQL et PySpark. Mon objectif est de
+  concevoir des dashboards professionnels et des pipelines de données fiables,
+  capables d'aider les entreprises à prendre de meilleures décisions.
+
+# ==================== SKILLS ====================
 skills:
+  business_intelligence:
+    - "Power BI (Expert)"
+    - "DAX"
+    - "Power Query"
+    - "Dashboards Interactifs"
+    - "Reporting Décisionnel"
   data_analysis:
     - "Data Cleaning"
     - "Data Transformation"
     - "KPI Analysis"
-    - "Business Reporting"
     - "Data Storytelling"
-
-  business_intelligence:
-    - "Power BI"
-    - "DAX"
-    - "Power Query"
-    - "Dashboards interactifs"
-    - "Reporting décisionnel"
-
-  programming_languages:
+  programming:
     - "Python"
     - "SQL"
     - "PySpark"
-
   data_engineering:
     - "Data Pipeline"
     - "ETL"
     - "Data Ingestion"
-    - "Data Processing"
     - "Automation"
 
+# ==================== PROJECTS ====================
 projects:
   - title: "MAP Transport Performance Report"
     category: "Business Intelligence"
     tool: "Power BI"
     description: "Analyse des performances transport/logistique de 2021 à 2024."
-    image: "assets/map-transport-report.png"
+    image: "/projects/map-transport-report.png"
 
   - title: "MAP Sales Report"
     category: "Sales Analytics"
     tool: "Power BI"
     description: "Dashboard de suivi des ventes, objectifs, marchés, modèles et superviseurs."
-    image: "assets/map-sales-report.png"
+    image: "/projects/map-sales-report.png"
 
   - title: "Congolese BAC Exam Report 2024"
     category: "Education Analytics"
     tool: "Power BI"
     description: "Analyse des résultats du BAC congolais 2024 par âge, sexe, session, école et grade."
-    image: "assets/congolese-bac-report.png"
+    image: "/projects/congolese-bac-report.png"
 
-pipeline:
-  objective: "Concevoir un pipeline data professionnel de la donnée brute jusqu’au dashboard final."
-  steps:
-    - "Data Ingestion"
-    - "Data Cleaning"
-    - "Data Transformation"
-    - "Python / SQL / PySpark Processing"
-    - "Data Modeling"
-    - "Power BI Dashboard"
-    - "Business Decision"
+# ==================== PIPELINE ====================
+pipeline_objective: "Concevoir un pipeline data professionnel de la donnée brute jusqu’au dashboard final."
 
-contact:
-  email: "malongamentor17@gmail.com"
-  linkedin: "https://linkedin.com/in/mentor-malonga"
-  portfolio: ""
-  github: "https://github.com/Mentor077"
+# ==================== CONTACT ====================
+email: "malongamentor17@gmail.com"
+linkedin: "https://linkedin.com/in/mentor-malonga"
+github: "https://github.com/Mentor077"
+
+# ==================== LANGUAGES ====================
+languages:
+  - name: "Français"
+    level: "Natif / Professionnel"
+  - name: "Anglais"
+    level: "Intermédiaire / Professionnel"
+
+last_update: "Juin 2025"
+```
+
+---
+
+### Prochaines actions demandées :
+
+Pour que votre portfolio fonctionne correctement avec Jekyll, vous devez maintenant créer **deux autres fichiers** :
+
+1. `_layouts/default.html` → (le design du site)
+2. `index.md` → (le contenu de la page d'accueil)
+
+**Voulez-vous que je vous envoie maintenant :**
+
+**Option A :** Le design moderne complet (fichiers `_layouts/default.html` + `index.md` avec un beau style dark/blue professionnel)
+
+**Option B :** Une version encore plus élégante avec animations et cards de projets
+
+Répondez simplement avec **A** ou **B**, ou dites-moi si vous voulez changer quelque chose dans le `_config.yml` avant de continuer.
