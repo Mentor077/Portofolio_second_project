@@ -1,4 +1,4 @@
-# 👨‍💼 Mentor Malonga
+#  Mentor Malonga
 
 **Data Analyst | Power BI Expert | PySpark & Data Pipeline Engineer**
 
