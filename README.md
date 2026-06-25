@@ -1,63 +1,117 @@
 ---
-title: Malonga Mentor
 layout: default
 ---
 
-<div align="center">
-  <img src="{{ site.logo }}" width="180" style="border-radius: 50%; border: 5px solid #2c7be5; margin: 25px 0 15px 0;" alt="Malonga Mentor">
-  
-  <h1>Malonga Mentor</h1>
-  <h2>Data Analyst @ Tecno</h2>
-  <p><strong>Power BI Developer | Python | SQL | PySpark | Data Pipeline Builder</strong></p>
-  
-  <p style="max-width: 700px; margin: 20px auto;">
-    Data Analyst chez <strong>Tecno</strong> depuis 2022. Je transforme des données brutes en insights actionnables 
-    et je conçois des pipelines de données professionnels ainsi que des dashboards décisionnels.
-  </p>
-</div>
+<h1>{{ site.title }}</h1>
 
----
+<p><strong>{{ site.description }}</strong></p>
 
-### À propos de moi
+<hr>
 
-Titulaire d’une **Licence en Électronique**, j’allie rigueur scientifique et expertise en analyse de données.  
-Je suis spécialisé dans la création de **dashboards Power BI** impactants et dans le développement de **pipelines data** scalables avec PySpark.
+<h2>À propos</h2>
 
----
+<p>
+Je suis <strong>Malonga Mentor</strong>, Data Analyst chez Tecno depuis 2022,
+spécialisé en Business Intelligence, dashboards Power BI, analyse de données
+et conception de pipelines data professionnels.
+</p>
 
-### Compétences
+<p>
+Titulaire d’une Licence en Électronique, je combine une base technique solide
+avec une approche orientée décision. Mon objectif est de transformer les données
+brutes en insights clairs, fiables et utiles pour les entreprises.
+</p>
 
-**🟦 Business Intelligence**  
-Power BI (Expert) • DAX • Power Query • Dashboards Interactifs • Data Storytelling
+<hr>
 
-**🔧 Data Engineering**  
-PySpark • Python • SQL • ETL • Data Pipeline • Data Modeling
+<h2>Compétences</h2>
 
-**📊 Analyse**  
-KPI Analysis • Data Cleaning • Business Reporting
+<h3>Business Intelligence</h3>
+<ul>
+  <li>Power BI</li>
+  <li>DAX</li>
+  <li>Power Query</li>
+  <li>Dashboards interactifs</li>
+  <li>Reporting décisionnel</li>
+</ul>
 
----
+<h3>Data Analysis</h3>
+<ul>
+  <li>Data Cleaning</li>
+  <li>Data Transformation</li>
+  <li>KPI Analysis</li>
+  <li>Data Storytelling</li>
+</ul>
 
-### Projets Phares
+<h3>Programming & Data Engineering</h3>
+<ul>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>PySpark</li>
+  <li>ETL</li>
+  <li>Data Pipeline</li>
+  <li>Automation</li>
+</ul>
 
-- **MAP Transport Performance Report** — Analyse logistique complète (2021-2024)
-- **MAP Sales Performance** — Dashboard commercial avec dépassement d’objectif (+26.86%)
-- **Rapport National BAC 2024** — Analyse statistique des résultats du Baccalauréat Congolais
+<hr>
 
----
+<h2>Vision Data Pipeline</h2>
 
-### Objectif Actuel
+<p>
+Je conçois des pipelines data professionnels capables de transformer une donnée
+brute en donnée propre, structurée et exploitable.
+</p>
 
-**Concevoir et déployer des pipelines de données professionnels** de la donnée brute jusqu’au dashboard final.
+<pre>
+Raw Data
+↓
+Data Ingestion
+↓
+Data Cleaning
+↓
+Data Transformation
+↓
+Python / SQL / PySpark
+↓
+Power BI Dashboard
+↓
+Business Decision
+</pre>
 
----
+<hr>
 
-### Contact
+<h2>Projets Power BI</h2>
 
-- **Email** : [malongamentor17@gmail.com](mailto:malongamentor17@gmail.com)
-- **LinkedIn** : [linkedin.com/in/mentor-malonga](https://linkedin.com/in/mentor-malonga)
-- **GitHub** : [github.com/Mentor077](https://github.com/Mentor077)
+<h3>MAP Transport Performance Report</h3>
+<p>Analyse des performances transport/logistique de 2021 à 2024.</p>
 
----
+<h3>MAP Sales Report</h3>
+<p>Dashboard de suivi des ventes, objectifs, marchés, modèles et superviseurs.</p>
 
-*Dernière mise à jour : Juin 2025*
+<h3>Congolese BAC Exam Report 2024</h3>
+<p>Analyse des résultats du BAC congolais 2024 par âge, sexe, session, école et grade.</p>
+
+<hr>
+
+<h2>Langues</h2>
+
+<ul>
+  <li>Français : Natif / Professionnel</li>
+  <li>Anglais : Intermédiaire / Professionnel</li>
+</ul>
+
+<hr>
+
+<h2>Contact</h2>
+
+<ul>
+  <li>GitHub : <a href="https://github.com/Mentor077">Mentor077</a></li>
+  <li>Email : <a href="mailto:malongamentor17@gmail.com">malongamentor17@gmail.com</a></li>
+  <li>LinkedIn : <a href="https://linkedin.com/in/mentor-malonga">mentor-malonga</a></li>
+</ul>
+
+<hr>
+
+<p>
+<strong>From raw data to clean pipelines. From dashboards to business impact.</strong>
+</p>
