@@ -1,117 +1,45 @@
+# 👋 Salut, moi c'est [TON PRÉNOM/PSEUDO] !
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[TON_PSEUDO]&label=Profil%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+### 🚀 À propos de moi
+Je suis un **[Ton Poste : ex: Développeur Fullstack / Étudiant en Informatique]** passionné par **[Ton domaine : ex: le Cloud, la Cybersécurité, le Web3]**. 
+
+- 🔭 Je travaille actuellement sur : **[Nom du projet actuel]**
+- 🌱 J'apprends en ce moment : **[Techno apprise : ex: Go, AWS, Kubernetes]**
+- 👯 Je souhaite collaborer sur : **[Type de projet : ex: Projets Open Source JS]**
+- 💬 Posez-moi des questions sur : **[Tes compétences : ex: React, Python, SQL]**
+- ⚡ Fait insolite : **[Une petite phrase fun sur toi]**
+
 ---
-layout: default
+
+### 🛠️ Mon Arsenal Technique
+
+**Langages & Frameworks**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Outils & DevOps**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
-<h1>{{ site.title }}</h1>
-
-<p><strong>{{ site.description }}</strong></p>
-
-<hr>
-
-<h2>À propos</h2>
-
-<p>
-Je suis <strong>Malonga Mentor</strong>, Data Analyst chez Tecno depuis 2022,
-spécialisé en Business Intelligence, dashboards Power BI, analyse de données
-et conception de pipelines data professionnels.
+### 📈 Mes Statistiques GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" />
 </p>
 
-<p>
-Titulaire d’une Licence en Électronique, je combine une base technique solide
-avec une approche orientée décision. Mon objectif est de transformer les données
-brutes en insights clairs, fiables et utiles pour les entreprises.
-</p>
+---
 
-<hr>
-
-<h2>Compétences</h2>
-
-<h3>Business Intelligence</h3>
-<ul>
-  <li>Power BI</li>
-  <li>DAX</li>
-  <li>Power Query</li>
-  <li>Dashboards interactifs</li>
-  <li>Reporting décisionnel</li>
-</ul>
-
-<h3>Data Analysis</h3>
-<ul>
-  <li>Data Cleaning</li>
-  <li>Data Transformation</li>
-  <li>KPI Analysis</li>
-  <li>Data Storytelling</li>
-</ul>
-
-<h3>Programming & Data Engineering</h3>
-<ul>
-  <li>Python</li>
-  <li>SQL</li>
-  <li>PySpark</li>
-  <li>ETL</li>
-  <li>Data Pipeline</li>
-  <li>Automation</li>
-</ul>
-
-<hr>
-
-<h2>Vision Data Pipeline</h2>
-
-<p>
-Je conçois des pipelines data professionnels capables de transformer une donnée
-brute en donnée propre, structurée et exploitable.
-</p>
-
-<pre>
-Raw Data
-↓
-Data Ingestion
-↓
-Data Cleaning
-↓
-Data Transformation
-↓
-Python / SQL / PySpark
-↓
-Power BI Dashboard
-↓
-Business Decision
-</pre>
-
-<hr>
-
-<h2>Projets Power BI</h2>
-
-<h3>MAP Transport Performance Report</h3>
-<p>Analyse des performances transport/logistique de 2021 à 2024.</p>
-
-<h3>MAP Sales Report</h3>
-<p>Dashboard de suivi des ventes, objectifs, marchés, modèles et superviseurs.</p>
-
-<h3>Congolese BAC Exam Report 2024</h3>
-<p>Analyse des résultats du BAC congolais 2024 par âge, sexe, session, école et grade.</p>
-
-<hr>
-
-<h2>Langues</h2>
-
-<ul>
-  <li>Français : Natif / Professionnel</li>
-  <li>Anglais : Intermédiaire / Professionnel</li>
-</ul>
-
-<hr>
-
-<h2>Contact</h2>
-
-<ul>
-  <li>GitHub : <a href="https://github.com/Mentor077">Mentor077</a></li>
-  <li>Email : <a href="mailto:malongamentor17@gmail.com">malongamentor17@gmail.com</a></li>
-  <li>LinkedIn : <a href="https://linkedin.com/in/mentor-malonga">mentor-malonga</a></li>
-</ul>
-
-<hr>
-
-<p>
-<strong>From raw data to clean pipelines. From dashboards to business impact.</strong>
-</p>
+### 📫 Me contacter
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LIEN_LINKEDIN])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LIEN_TWITTER])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TON_EMAIL])
