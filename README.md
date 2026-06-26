@@ -1,45 +1,67 @@
-# 👋 Salut, moi c'est [TON PRÉNOM/PSEUDO] !
+# 👋 Salut, moi c'est Mentor MALONGA
+### 🚀 Data Analyst & BI Developer | Hybrid Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TON_PSEUDO]&label=Profil%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-### 🚀 À propos de moi
-Je suis un **[Ton Poste : ex: Développeur Fullstack / Étudiant en Informatique]** passionné par **[Ton domaine : ex: le Cloud, la Cybersécurité, le Web3]**. 
-
-- 🔭 Je travaille actuellement sur : **[Nom du projet actuel]**
-- 🌱 J'apprends en ce moment : **[Techno apprise : ex: Go, AWS, Kubernetes]**
-- 👯 Je souhaite collaborer sur : **[Type de projet : ex: Projets Open Source JS]**
-- 💬 Posez-moi des questions sur : **[Tes compétences : ex: React, Python, SQL]**
-- ⚡ Fait insolite : **[Une petite phrase fun sur toi]**
-
----
-
-### 🛠️ Mon Arsenal Technique
-
-**Langages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Outils & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📈 Mes Statistiques GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LIEN_LINKEDIN])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LIEN_TWITTER])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TON_EMAIL])
+### 🎯 Ma Valeur Ajoutée : L'Alliance de l'Ingénierie et de la Data
+
+Électronicien de formation, j'ai passé mes premières années à analyser des circuits et des signaux complexes. Cette rigueur mathématique est devenue le socle de ma transition vers l'**Analyse de Données** il y a 3 ans.
+
+Aujourd'hui, je ne traite pas seulement des données, je construis des **systèmes de décision**. Mon approche combine :
+- **La Rigueur de l'Ingénieur** : Précision absolue dans le nettoyage et la structuration des données.
+- **La Puissance du Big Data** : Capacité à traiter des volumes massifs via **PySpark** et **Microsoft Fabric**.
+- **La Vision Business** : Transformation de KPIs complexes en dashboards actionnables pour optimiser les ventes et les inventaires.
+
+---
+
+### 🛠️ Mon Stack Technique
+
+| Pipeline | Technologies |
+| :--- | :--- |
+| **Data Engineering** | `Microsoft Fabric` • `PySpark` • `SQL` • `ETL Processes` |
+| **Data Analysis** | `Python (Pandas/NumPy)` • `Excel Expert` • `Statistiques` |
+| **Business Intelligence** | `Power BI (DAX/Power Query)` • `Dashboarding Stratégique` |
+| **Project Management** | `MS Project` • `Suivi de Performance (KPIs)` |
+
+---
+
+### 📈 Projets à Fort Impact (Proof of Concept)
+
+#### 🎓 Analyse Nationale des Examens (BAC)
+*Analyse de performance éducative à grande échelle.*
+- **Challenge :** Analyser les résultats de +39 000 candidats.
+- **Solution :** Création d'un écosystème de reporting segmentant la réussite par genre, âge et type d'école.
+- **Résultat :** Identification visuelle instantanée des disparités de réussite pour orienter les décisions ministérielles.
+
+#### 💰 Pilotage de la Performance Commerciale
+*Optimisation du cycle de vente et suivi d'objectifs.*
+- **Challenge :** Mesurer l'efficacité commerciale en temps réel.
+- **Solution :** Implémentation d'un tracking **Target vs Actual** granulaire (par superviseur et par modèle).
+- **Résultat :** Mise en lumière d'un taux de réalisation de **127%**, permettant d'identifier et de dupliquer les meilleures pratiques de vente.
+
+#### 🚢 Intelligence Financière & Logistique (Transport)
+*Analyse de rentabilité sur des flux de milliards de FCFA.*
+- **Challenge :** Suivre le pipeline financier depuis la prospection jusqu'au revenu encaissé.
+- **Solution :** Dashboard financier analysant le "Lost Amount" et segmentant les clients TOP 7.
+- **Résultat :** Optimisation de la rentabilité par mode de transport (Air, Mer, Route) et réduction des pertes financières.
+
+---
+
+### 💼 Expertise Actuelle
+Dans mon rôle actuel, je pilote la performance opérationnelle :
+- **Inventaire & Stocks :** Analyse prédictive pour éviter les ruptures et optimiser la rotation.
+- **Sales Analytics :** Transformation des ventes quotidiennes en rapports de croissance hebdomadaires.
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
