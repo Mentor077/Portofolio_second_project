@@ -1,1 +1,43 @@
-title: Mon Super Portfolio 🚀
+# ==============================================================================
+# CONFIGURATION DU SITE - MENTOR MALONGA
+# ==============================================================================
+
+# --- Informations de base ---
+title: Mentor MALONGA | Data Analyst & BI Developer 🚀
+description: "Expert en analyse de données et BI, alliant la rigueur de l'électronique à la puissance de Microsoft Fabric et Power BI."
+email: ton-email@gmail.com
+author: Mentor Malonga
+
+# --- URL du site ---
+# Remplace 'ton-pseudo' par ton vrai nom d'utilisateur GitHub
+url: "https://ton-pseudo.github.io" 
+baseurl: "" # Laisse vide si ton site est à la racine (ex: ton-pseudo.github.io)
+
+# --- Thème (Choisis-en un supporté par GitHub Pages) ---
+# Exemples: jekyll-theme-minimal, jekyll-theme-architect, jekyll-theme-cayman
+theme: jekyll-theme-minimal 
+
+# --- Réseaux Sociaux & Liens ---
+social:
+  linkedin: "https://www.linkedin.com/in/ton-profil"
+  github: "https://github.com/ton-pseudo"
+  twitter: "https://twitter.com/ton-compte"
+
+# --- Menu de Navigation (Optionnel selon le thème) ---
+# Ce menu apparaîtra souvent en haut de ton site
+nav_links:
+  - title: Accueil
+    url: /
+  - title: Projets
+    url: /projects
+  - title: À Propos
+    url: /about
+  - title: Contact
+    url: /contact
+
+# --- Configuration Google Analytics (Optionnel) ---
+# google_analytics: UA-XXXXXXXXX-X
+
+# ==============================================================================
+# FIN DE LA CONFIGURATION
+# ==============================================================================
