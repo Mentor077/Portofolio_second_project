@@ -1,30 +1,27 @@
 # ==============================================================================
-# CONFIGURATION DU SITE - MENTOR MALONGA
+# CONFIGURATION DU SITE - MENTOR MALONGA (ACTUALISÉE)
 # ==============================================================================
 
 # --- Informations de base ---
-title: Mentor MALONGA | Data Analyst & BI Developer 🚀
+title: "Mentor MALONGA | Data Analyst & BI Developer 🚀"
 description: "Expert en analyse de données et BI, alliant la rigueur de l'électronique à la puissance de Microsoft Fabric et Power BI."
-email: mentormalonga17@gmail.com
-author: Mentor Malonga
+email: "mentormalonga17@gmail.com"
+author: "Mentor Malonga"
 
-# --- URL du site ---
-# Remplace 'ton-pseudo' par ton vrai nom d'utilisateur GitHub
-url: "https://Mentor077.github.io" 
-baseurl: "" # Laisse vide si ton site est à la racine (ex: ton-pseudo.github.io)
+# --- URL & Photo du site ---
+url: "https://Mentor077.github.io"
+baseurl: ""
+photo_url: "https://github.com/Mentor077.png" # Lien de photo personnalisé
 
-# --- Thème (Choisis-en un supporté par GitHub Pages) ---
-# Exemples: jekyll-theme-minimal, jekyll-theme-architect, jekyll-theme-cayman
-theme: jekyll-theme-minimal 
+# --- Thème ---
+theme: "jekyll-theme-minimal"
 
 # --- Réseaux Sociaux & Liens ---
 social:
-  linkedin: "www.linkedin.com/in/mentor-malonga"
+  linkedin: "https://www.linkedin.com/in/mentor-malonga"
   github: "https://github.com/Mentor077"
-  
 
-# --- Menu de Navigation (Optionnel selon le thème) ---
-# Ce menu apparaîtra souvent en haut de ton site
+# --- Menu de Navigation ---
 nav_links:
   - title: Accueil
     url: /
@@ -34,10 +31,9 @@ nav_links:
     url: /about
   - title: Contact
     url: /contact
-
-# --- Configuration Google Analytics (Optionnel) ---
-# google_analytics: UA-XXXXXXXXX-X
+  - title: 🚀 Déployer
+    url: /deploy
 
 # ==============================================================================
-# FIN DE LA CONFIGURATION
+# CONFIRMATION VALIDÉE EN TEMPS RÉEL ✅
 # ==============================================================================
