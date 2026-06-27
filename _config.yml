@@ -10,7 +10,7 @@ author: Mentor Malonga
 
 # --- URL du site ---
 # Remplace 'ton-pseudo' par ton vrai nom d'utilisateur GitHub
-url: "https://ton-pseudo.github.io" 
+url: "https://Mentor077.github.io" 
 baseurl: "" # Laisse vide si ton site est à la racine (ex: ton-pseudo.github.io)
 
 # --- Thème (Choisis-en un supporté par GitHub Pages) ---
@@ -19,9 +19,9 @@ theme: jekyll-theme-minimal
 
 # --- Réseaux Sociaux & Liens ---
 social:
-  linkedin: "https://www.linkedin.com/in/ton-profil"
-  github: "https://github.com/ton-pseudo"
-  twitter: "https://twitter.com/ton-compte"
+  linkedin: "https://www.linkedin.com/in/mentor-malonga"
+  github: "https://github.com/Mentor077"
+  
 
 # --- Menu de Navigation (Optionnel selon le thème) ---
 # Ce menu apparaîtra souvent en haut de ton site
