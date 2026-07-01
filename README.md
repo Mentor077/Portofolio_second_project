@@ -1,70 +1,148 @@
-# Mentor MALONGA | Data Analyst & BI Developer 🚀
+# 📊 MAP Transport Performance Dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mentor-malonga)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentormalonga17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mentor077)
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://Mentor077.github.io)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://Mentor077.github.io)
+> 🚢 Tableau de bord décisionnel — Analyse de performance commerciale et logistique (2021-2024)
 
-> *"Expert en analyse de données et BI, alliant la rigueur de l'électronique à la puissance de Microsoft Fabric et Power BI."*
+[⬅️ Retour au profil](https://github.com/Mentor077/Mentor077)
 
 ---
 
-## 🎯 Code Corrigé Exprès pour Vous (Prêt à Copier-Coller)
+## 1️⃣ Introduction du Projet
 
-Voici le code Markdown exact corrigé avec votre adresse email **`mentormalonga17@gmail.com`** et votre compte LinkedIn **`https://www.linkedin.com/in/mentor-malonga`** :
+**MAP Transport** est une entreprise de transport multimodal (maritime, routier, aérien, fluvial).  
 
-```markdown
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mentor-malonga)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentormalonga17@gmail.com)
-```
+Dans un contexte de forte concurrence, la direction avait besoin d'un outil unique pour **piloter sa performance commerciale**, suivre ses revenus et comprendre pourquoi certains prospects ne se transformaient pas en clients.
 
-### Quelles corrections ont été appliquées ?
-1. **Suppression des doubles parenthèses `]((...))` pour LinkedIn :** 
-   - Vous aviez écrit : `]((https://www.linkedin.com/in/mentor-malonga))` ❌ (créait une erreur de syntaxe Markdown).
-   - Corrigé en : `](https://www.linkedin.com/in/mentor-malonga)` ✅ (une seule paire de parenthèses).
+J'ai conçu un **tableau de bord interactif Power BI** couvrant **4 années d'activité (2021-2024)**, transformant des milliers de lignes de données brutes en un outil de décision clair et visuel.
 
-2. **Ajout du préfixe `mailto:` et de l'arobase `@` pour l'Email :**
-   - Vous aviez écrit : `mentormalonga17gmail.com` sans le `@` et sans `mailto:`.
-   - Corrigé en : `](mailto:mentormalonga17@gmail.com)` ✅ pour que le clic ouvre directement la messagerie de l'utilisateur.
+🎯 **Objectif :** Offrir une vision à 360° du cycle commercial — du prospect jusqu'au client confirmé.
 
 ---
 
-## 📖 Comprendre le code Markdown de ces Badges
+### 👀 Aperçu Rapide du Résultat
 
-### Décryptage syntaxique pas-à-pas :
-1. **La structure d'image cliquable en Markdown :**
-   - Une image s'écrit : `![Texte alternatif](URL_de_l_image)`
-   - Un lien s'écrit : `[Texte cliquable](URL_de_destination)`
-   - En combinant les deux : `[![Alt](URL_image)](URL_destination)` -> L'image devient un bouton interactif !
+<p align="center">
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-first.jpg?raw=true" 
+       alt="Mentor Malonga" 
+       width="700">
+</p>
 
-2. **Les paramètres de l'API Shields.io (`https://img.shields.io/badge/...`) :**
-   - `LinkedIn-0077B5` : Le texte du badge suivi du code couleur hexadécimal (`#0077B5` = Bleu officiel LinkedIn, `#D14836` = Rouge Gmail).
-   - `?style=for-the-badge` : Donne cet aspect rectangulaire moderne, majuscule et professionnel.
-   - `&logo=linkedin` ou `&logo=gmail` : Demande à Shields.io d'afficher l'icône vectorielle officielle (via SimpleIcons).
-   - `&logoColor=white` : Force la couleur de l'icône en blanc pur.
+<p align="center"><i>⬇️ Détails complets et analyse plus bas ⬇️</i></p>
 
 ---
 
-## 🚀 4 Étapes pour rendre ce site fonctionnel sur GitHub Pages
+## 2️⃣ Détail du Travail Réalisé
 
-1. **Créer le dépôt GitHub (Repository) :**
-   - Connectez-vous à votre compte GitHub (**@Mentor077**).
-   - Créez un nouveau dépôt public obligatoirement nommé : `Mentor077.github.io`
+Le projet s'est déroulé en plusieurs phases :
 
-2. **Vérifier les informations du site (`_config.yml`) :**
-   - Votre fichier contient `url: "https://Mentor077.github.io"` et `baseurl: ""`. C'est idéal car le site sera à la racine de votre domaine GitHub.
+### 🔹 Collecte & Préparation des données
+- Importation des données de facturation, prospects et clients
+- Nettoyage des données (valeurs manquantes, doublons, "Unknown")
+- Structuration par année, prestation, destination et entreprise
 
-3. **Générer ou pousser les fichiers :**
-   - Si vous hébergez l'application React/Vite : exécutez `npm run build` pour compiler le projet, puis envoyez le contenu de `dist/` ou réglez GitHub Actions.
-   - Si vous utilisez Jekyll natif : placez le fichier `_config.yml` et vos pages à la racine.
+### 🔹 Modélisation
+- Création du modèle de données relationnel
+- Établissement des relations entre les tables (clients / prestations / temps)
 
-4. **Activer GitHub Pages :**
-   - Rendez-vous dans l'onglet **Settings** de votre dépôt GitHub.
-   - Allez dans le menu **Pages** à gauche.
-   - Dans **Build and deployment** > **Source**, choisissez **Deploy from a branch**.
-   - Sélectionnez la branche `main` et sauvegardez. Votre site sera actif en moins de 2 minutes !
+### 🔹 Conception des indicateurs
+- Définition de **8 KPIs stratégiques** : factures envoyées, confirmées, clients gagnés, revenus, montants perdus et en attente
+- Calcul du **taux de conversion** prospect → client
+
+### 🔹 Visualisation (2 pages)
+- **Page 1 :** Vue stratégique globale (KPIs, tendances annuelles, analyse par prestation)
+- **Page 2 :** Analyse détaillée des volumes (prospecté, confirmé, perdu, en attente)
+- Ajout de **filtres dynamiques** : Année, Prestation, Destination, Entreprise
 
 ---
 
-*Site configuré et vérifié pour Mentor Malonga.*
+## 3️⃣ Outils Utilisés
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="PowerQuery">
+  <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/Data_Modeling-1565C0?style=for-the-badge&logo=databricks&logoColor=white" alt="DataModeling">
+</p>
+
+| Outil | Utilisation |
+|-------|-------------|
+| **Power BI** | Création du dashboard et des visualisations |
+| **Power Query** | Nettoyage et transformation des données (ETL) |
+| **DAX** | Calculs avancés (KPIs, taux, cumuls, comparaisons) |
+| **Data Modeling** | Structuration des relations entre tables |
+
+---
+
+## 4️⃣ Analyse & Insights
+
+Les données ont révélé des informations stratégiques majeures :
+
+### 📈 Performance globale
+- 💰 **Revenu total :** 1.22 Md FCFA
+- 📨 **637 factures envoyées**, dont **263 confirmées** → taux de conversion d'environ **41%**
+- 🏆 **86 clients gagnés** sur 120 prospects
+
+### ⚠️ Points d'alerte identifiés
+- 💸 **Montant perdu (1.93 Md FCFA) supérieur au revenu confirmé** → fuite commerciale importante
+- 📉 **2023** : année record des pertes (676 M FCFA) malgré un fort revenu
+- ⏳ **390 M FCFA en attente** : opportunités non converties
+
+### 🎯 Découvertes clés
+- ✅ Le secteur **AIR** est le plus rentable (580 M FCFA) avec pourtant moins de prospects que SEA
+- ✅ **3 entreprises** (compagny5, 25, 24) concentrent une grande part du chiffre d'affaires
+- ✅ Le secteur **SEA** génère le plus de prospects mais une rentabilité moindre
+
+---
+
+## 5️⃣ Solutions & Recommandations
+
+Sur la base de cette analyse, j'ai formulé des recommandations concrètes :
+
+| Problème identifié | Solution proposée |
+|--------------------|-------------------|
+| 💸 Montants perdus élevés | Mettre en place un suivi rapproché des devis perdus + analyse des causes |
+| ⏳ Volume en attente important | Système de relance automatique des prospects en attente |
+| 📉 Pertes record en 2023 | Audit approfondi de l'année 2023 pour comprendre les causes |
+| 🎯 Dépendance à 3 clients | Diversifier le portefeuille client pour réduire le risque |
+| ✈️ AIR sous-exploité | Renforcer les efforts commerciaux sur le segment le plus rentable |
+
+### 🚀 Impact business
+- ✅ **Réduction du temps de reporting** (de plusieurs heures à quelques secondes)
+- ✅ **Décisions data-driven** basées sur des faits, pas des intuitions
+- ✅ **Détection proactive** des pertes et opportunités
+
+---
+
+## 🎨 Dashboard Complet — Vue Détaillée
+
+### 📊 Page 1 — Vue Stratégique Globale
+
+<p align="center">
+  <img src="https://github.com/Mentor077/My-Professional-Statements/blob/main/map-second.jpg?raw=true" 
+       width="900">
+</p>
+
+> Cette page présente les **8 KPIs principaux**, les tendances annuelles
+> de prospection et de revenus, l'analyse par type de prestation,
+> le Top 3 des meilleures compagnies et la répartition des parts clients.
+
+---
+
+### 📈 Page 2 — Analyse Détaillée des Volumes
+
+<p align="center">
+  <img src="https://github.com/Mentor077/MAP-Transport-Report/blob/main/page2.png?raw=true" 
+       alt="Dashboard Page 2 - Analyse de Performance" 
+       width="900">
+</p>
+
+> Cette page analyse en profondeur les **4 types de volumes** :
+> prospecté, confirmé, perdu et en attente. Elle permet d'identifier
+> les compagnies les plus performantes et celles avec le plus de pertes.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Mentor077/Mentor077">
+    <img src="https://img.shields.io/badge/⬅️_Retour_au_Profil_Principal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Retour">
+  </a>
+</p>
